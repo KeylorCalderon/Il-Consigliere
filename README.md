@@ -150,31 +150,31 @@ Council entities, attendees, permissions, session types, and voting structures a
 
 ### Home Page
 
-<img src="screenshots/Image1.png" width="500">
+<img src="screenshots/Image1.png" width="900">
 
 ### Login
 
-<img src="screenshots/Image2.png" width="500">
+<img src="screenshots/Image2.png" width="900">
 
 ### Password Restauration Via Email
 
-<img src="screenshots/Image3.png" width="500">
+<img src="screenshots/Image3.png" width="900">
 
 ### Dashboard
 
-<img src="screenshots/Image6.png" width="500">
+<img src="screenshots/Image6.png" width="900">
 
 ### Council Management
 
-<img src="screenshots/Image5.png" width="500">
+<img src="screenshots/Image5.png" width="900">
 
 ### User Invitation
 
-<img src="screenshots/Image4.png" width="500">
+<img src="screenshots/Image4.png" width="900">
 
 ### User Administration
 
-<img src="screenshots/Image7.png" width="500">
+<img src="screenshots/Image7.png" width="900">
 
 ---
 
